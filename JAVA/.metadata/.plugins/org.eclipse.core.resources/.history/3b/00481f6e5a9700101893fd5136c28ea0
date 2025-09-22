@@ -1,0 +1,13 @@
+package mystyle;
+import java.util.Scanner;
+
+// 키, 매력, 나이 입력받기
+// 3개의 조건 > 사귄다 / 어장에 넣는다./ 친구로 지낸다./ 무시한다.
+public class Ch6_1{
+
+	public static void main(String[] args) {
+		for (int i = 0; i < 3; i++) {
+			System.out.println("*");
+		}
+	}
+}
