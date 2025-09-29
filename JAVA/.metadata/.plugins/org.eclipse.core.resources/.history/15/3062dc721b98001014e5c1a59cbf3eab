@@ -1,0 +1,22 @@
+package mystyle;
+import java.util.Scanner;
+import java.util.random;
+
+public class Ch6_7{
+
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		
+		int computer, user;
+		System.out.print("가위바위보! (가위 : 0, 바위 : 1, 보 : 2) : ");
+		user= s.nextInt();
+		
+		while () {
+			if () {
+				
+			}
+		}
+		System.out.println("축하합니다!");
+		s.close();
+	}
+}
